@@ -1,4 +1,4 @@
-package org.interview.recursive;
+package org.interview.recursive.palindrome;
 
 public record Palindrome(String input) {
     private static final int STARTING_INDEX = 0;
